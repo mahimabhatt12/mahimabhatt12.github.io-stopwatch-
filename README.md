@@ -21,7 +21,7 @@
 
 ## Previews
 
-  ![](img/preview.png)
+  ![](img/preview_image.png)
 
 ## Approach
 
